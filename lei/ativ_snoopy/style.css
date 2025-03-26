@@ -1,0 +1,43 @@
+body {
+    background-color:  #f0f0f0;
+    color: #333333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto ;
+}
+
+h1 {
+    color:  #0066cc;
+}
+h2 {
+    font-family: sans-serif;
+}
+
+.paragrafo {
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.box {
+    border-radius: 2px;
+    background-color:#0066cc;
+    box-shadow: 3px 3px 5px
+rgba(0, 0, 0, 0.1);
+}
+
+a {
+    color: #ff5733;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff3366;
+
+}
+
+footer {
+    background-color: #333 ;
+}

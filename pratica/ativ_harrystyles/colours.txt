@@ -1,0 +1,13 @@
+Warna Dominan : #b9a0ac 
+
+Palet Warna : 
+ - #060506 
+ - #a6c3d3 
+ - #cf6975 
+ - #884051 
+ - #63a1ce 
+ - #a5436b 
+ - #d18a89 
+ - #d6cbc9 
+ - #345e99 
+ - #3c5464 
